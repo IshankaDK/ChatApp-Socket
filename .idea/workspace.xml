@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d1effe7-24ef-4d02-af91-1f867f47ad8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jfoenix_8_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/assests/icons8-camera-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/assests/icons8-close-window-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/assests/icons8-macos-minimize-90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/controller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/controller/ClientLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/view/Client.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/view/ClientLogin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerSide/src/controller/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerSide/src/controller/ServerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClientSide/AppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClientSide/META-INF/ClientSide.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClientSide/assests/icons8-camera-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClientSide/assests/icons8-close-window-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClientSide/assests/icons8-macos-minimize-90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClientSide/controller/ClientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClientSide/controller/ClientLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClientSide/view/Client.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClientSide/view/ClientLogin.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientSide/src/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientSide/src/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerSide/src/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerSide/src/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerSide/src/view/Server.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/ServerSide/src/view/Server.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m6naCqvE1ySFHzZhYVVTFAa55a" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jar_files/jfoenix-8.0.7.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ClientSide" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppInitializer">
+    <configuration name="AppInitializer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppInitializer" />
+      <module name="ServerSide" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppInitializer" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppInitializer" />
+      <module name="ClientSide" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppInitializer" />
+      <item itemvalue="Application.AppInitializer (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppInitializer" />
+        <item itemvalue="Application.AppInitializer (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d1effe7-24ef-4d02-af91-1f867f47ad8c" name="Default Changelist" comment="" />
+      <created>1608822969392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608822969392</updated>
+      <workItem from="1608822973653" duration="1420000" />
+      <workItem from="1608824412829" duration="188000" />
+      <workItem from="1608827906137" duration="1069000" />
+      <workItem from="1608828994982" duration="330000" />
+      <workItem from="1608829403936" duration="320000" />
+      <workItem from="1608829839949" duration="1971000" />
+      <workItem from="1608832431028" duration="1598000" />
+      <workItem from="1608899532869" duration="18270000" />
+    </task>
+    <task id="LOCAL-00001" summary="Sec commit">
+      <created>1608824438235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608824438235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sec commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sec commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608900367691">
+      <screen x="78" y="28" width="3202" height="1052" />
+    </state>
+    <state x="457" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/78.28.3202.1052@78.28.3202.1052" timestamp="1608900367691" />
+    <state x="807" y="262" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1608827944451">
+      <screen x="78" y="28" width="1842" height="1052" />
+    </state>
+    <state x="807" y="262" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/78.28.1842.1052/1920.0.1360.768@78.28.1842.1052" timestamp="1608827944451" />
+    <state x="532" y="114" width="924" height="888" key="CommitChangelistDialog2" timestamp="1608824437974">
+      <screen x="78" y="28" width="1842" height="1052" />
+    </state>
+    <state x="532" y="114" width="924" height="888" key="CommitChangelistDialog2/78.28.1842.1052/1920.0.1360.768@78.28.1842.1052" timestamp="1608824437974" />
+    <state x="646" y="302" width="685" height="539" key="FileChooserDialogImpl" timestamp="1608832982210">
+      <screen x="78" y="28" width="1842" height="1052" />
+    </state>
+    <state x="646" y="302" width="685" height="539" key="FileChooserDialogImpl/78.28.1842.1052/1920.0.1360.768@78.28.1842.1052" timestamp="1608832982210" />
+    <state width="1800" height="276" key="GridCell.Tab.0.bottom" timestamp="1608927700144">
+      <screen x="78" y="28" width="3202" height="1052" />
+    </state>
+    <state width="1800" height="276" key="GridCell.Tab.0.bottom/78.28.1842.1052/1920.0.1360.768@78.28.1842.1052" timestamp="1608829325647" />
+    <state width="1800" height="276" key="GridCell.Tab.0.bottom/78.28.1842.1052@78.28.1842.1052" timestamp="1608899549744" />
+    <state width="1800" height="276" key="GridCell.Tab.0.bottom/78.28.3202.1052@78.28.3202.1052" timestamp="1608927700144" />
+    <state width="1800" height="276" key="GridCell.Tab.0.center" timestamp="1608927700144">
+      <screen x="78" y="28" width="3202" height="1052" />
+    </state>
+    <state width="1800" height="276" key="GridCell.Tab.0.center/78.28.1842.1052/1920.0.1360.768@78.28.1842.1052" timestamp="1608829325647" />
+    <state width="1800" height="276" key="GridCell.Tab.0.center/78.28.1842.1052@78.28.1842.1052" timestamp="1608899549743" />
+    <state width="1800" height="276" key="GridCell.Tab.0.center/78.28.3202.1052@78.28.3202.1052" timestamp="1608927700144" />
+    <state width="1800" height="276" key="GridCell.Tab.0.left" timestamp="1608927700144">
+      <screen x="78" y="28" width="3202" height="1052" />
+    </state>
+    <state width="1800" height="276" key="GridCell.Tab.0.left/78.28.1842.1052/1920.0.1360.768@78.28.1842.1052" timestamp="1608829325647" />
+    <state width="1800" height="276" key="GridCell.Tab.0.left/78.28.1842.1052@78.28.1842.1052" timestamp="1608899549743" />
+    <state width="1800" height="276" key="GridCell.Tab.0.left/78.28.3202.1052@78.28.3202.1052" timestamp="1608927700144" />
+    <state width="1800" height="276" key="GridCell.Tab.0.right" timestamp="1608927700144">
+      <screen x="78" y="28" width="3202" height="1052" />
+    </state>
+    <state width="1800" height="276" key="GridCell.Tab.0.right/78.28.1842.1052/1920.0.1360.768@78.28.1842.1052" timestamp="1608829325647" />
+    <state width="1800" height="276" key="GridCell.Tab.0.right/78.28.1842.1052@78.28.1842.1052" timestamp="1608899549744" />
+    <state width="1800" height="276" key="GridCell.Tab.0.right/78.28.3202.1052@78.28.3202.1052" timestamp="1608927700144" />
+    <state x="139" y="131" width="1024" height="854" key="SettingsEditor" timestamp="1608905362006">
+      <screen x="78" y="28" width="3202" height="1052" />
+    </state>
+    <state x="482" y="131" width="1024" height="854" key="SettingsEditor/78.28.1842.1052/1920.0.1360.768@78.28.1842.1052" timestamp="1608832984305" />
+    <state x="139" y="131" key="SettingsEditor/78.28.3202.1052@78.28.3202.1052" timestamp="1608905362006" />
+    <state x="783" y="470" width="432" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608910052234">
+      <screen x="78" y="28" width="3202" height="1052" />
+    </state>
+    <state x="783" y="470" width="432" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/78.28.3202.1052@78.28.3202.1052" timestamp="1608910052234" />
+    <state x="662" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1608905379635">
+      <screen x="78" y="28" width="3202" height="1052" />
+    </state>
+    <state x="662" y="260" width="672" height="678" key="search.everywhere.popup/78.28.3202.1052@78.28.3202.1052" timestamp="1608905379635" />
+  </component>
+</project>
