@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<?import javafx.scene.Cursor?>
+<AnchorPane prefHeight="600.0" prefWidth="500.0" style="-fx-background-color: #2c3e50;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ServerController">
+   <children>
+      <Label layoutX="41.0" layoutY="25.0" text="Chat Server - Play Tech pvt Ltd" textFill="#fdfeff">
+         <font>
+            <Font name="System Bold" size="29.0" />
+         </font>
+      </Label>
+      <TextArea fx:id="txtArea" editable="false" layoutX="41.0" layoutY="88.0" prefHeight="412.0" prefWidth="429.0" />
+      <JFXButton layoutX="69.0" layoutY="523.0" onAction="#btnStartOnAction" prefHeight="47.0" prefWidth="157.0" style="-fx-background-color: #2ed573;" text="Start Server" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </JFXButton>
+      <JFXButton layoutX="288.0" layoutY="523.0" onAction="#btnStopOnAction" prefHeight="47.0" prefWidth="157.0" style="-fx-background-color: #ff4757;" text="Stop Server" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </JFXButton>
+   </children>
+</AnchorPane>
