@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import com.jfoenix.controls.JFXButton?>
-<?import javafx.geometry.Insets?>
 <?import javafx.scene.Cursor?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.Separator?>
@@ -27,7 +26,7 @@
             <Cursor fx:constant="HAND" />
          </cursor>
       </ImageView>
-      <ImageView fitHeight="37.0" fitWidth="43.0" layoutX="398.0" layoutY="15.0" onDragDetected="#imgMinOnAction" onMouseReleased="#imgMinOnAction" pickOnBounds="true" preserveRatio="true">
+      <ImageView fitHeight="37.0" fitWidth="43.0" layoutX="398.0" layoutY="15.0" onMouseReleased="#imgMinOnAction" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../assests/icons8-macos-minimize-90.png" />
          </image>
@@ -36,14 +35,6 @@
          </cursor>
       </ImageView>
       <Separator layoutX="12.0" layoutY="64.0" prefHeight="3.0" prefWidth="470.0" />
-      <TextArea fx:id="txtArea" editable="false" layoutX="20.0" layoutY="95.0" prefHeight="460.0" prefWidth="461.0">
-         <font>
-            <Font size="22.0" />
-         </font>
-         <opaqueInsets>
-            <Insets />
-         </opaqueInsets>
-      </TextArea>
       <TextField fx:id="txtMsg" layoutX="68.0" layoutY="577.0" onAction="#txtMsgOnAction" prefHeight="43.0" prefWidth="313.0" style="-fx-font-size: 20;" />
       <JFXButton buttonType="RAISED" layoutX="387.0" layoutY="576.0" onAction="#btnSendOnAction" prefHeight="37.0" prefWidth="93.0" ripplerFill="#e00de0" style="-fx-background-color: #1B9CFC#1B9CFC;" text="Send" textFill="#cdcccc">
          <font>
@@ -53,7 +44,7 @@
             <Cursor fx:constant="HAND" />
          </cursor>
       </JFXButton>
-      <ImageView fitHeight="43.0" fitWidth="37.0" layoutX="20.0" layoutY="580.0" onDragDetected="#imgImageOnAction" pickOnBounds="true" preserveRatio="true">
+      <ImageView fitHeight="43.0" fitWidth="37.0" layoutX="20.0" layoutY="580.0" onMouseReleased="#imgImageOnAction" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../assests/icons8-camera-96.png" />
          </image>
@@ -61,5 +52,6 @@
             <Cursor fx:constant="HAND" />
          </cursor>
       </ImageView>
+      <TextArea fx:id="txtArea" layoutX="22.0" layoutY="86.0" prefHeight="473.0" prefWidth="459.0" style="-fx-font-size: 23;" />
    </children>
 </AnchorPane>
